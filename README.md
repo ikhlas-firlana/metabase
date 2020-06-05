@@ -1,2 +1,2 @@
 # metabase
-dashboard reporting with docker-compose
+dashboard reporting
